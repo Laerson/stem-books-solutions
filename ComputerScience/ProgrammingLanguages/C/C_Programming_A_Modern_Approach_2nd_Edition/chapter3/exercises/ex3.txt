@@ -1,0 +1,11 @@
+a)
+they are the same. scanf matches any number of whitespaces (including none) to a whitespace in a formated string.
+
+b)
+Not the same. In the first, if you add a space between the numbers, scanf() will try to match the whitespace with a '-', and it won't match
+
+c)
+They are the same (same reason as (a))
+
+d)
+They are the same. If you type something that counts as a  floating number literal, followed by a comma, it doesn't matter how many spaces follow it, both format strings will match the same way.
