@@ -1,0 +1,3 @@
+Some compilers may not issue a warning
+the problem with this code is the missing return statement at the main function
+

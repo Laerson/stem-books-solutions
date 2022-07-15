@@ -1,0 +1,1 @@
+Because it may affect readability. It may be hard to notice there are more than one underscore, depending on the font used.

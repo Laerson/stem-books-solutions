@@ -1,0 +1,1 @@
+all of them, except b) ("If" isn't "if"), c), and d)(printf isn't reserved, if you don't import stdio.h, you can name a variable as printf).

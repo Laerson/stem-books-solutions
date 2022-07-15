@@ -1,0 +1,16 @@
+13 tokens, they are listed below:
+
+answer
+=
+(
+3
+*
+q
+-
+p
+*
+p
+)
+/
+3
+;

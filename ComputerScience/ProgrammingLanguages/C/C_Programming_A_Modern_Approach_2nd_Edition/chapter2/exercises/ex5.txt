@@ -1,0 +1,8 @@
+a) Starts with a number, so it is not legal
+
+b) It is legal. However it starts with an underscore. Therefore, should be avoided, since those may be restricted in some compilers, and identifiers starting with underscore are reserved
+
+c)It is valid, however, it is not a good idea to have two adjacent underscores (see ex7.txt)
+
+d) valid identifier
+
