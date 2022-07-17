@@ -1,0 +1,8 @@
+it deppends of the compiler
+for example, let's take i = 9, j = 7
+
+-9/7 in C89 can result in either -1 or -2, so the result may differ
+from -(9/7) (that will always be -1)
+
+However, in C99 the result of division will always truncate towards 0, so
+-9/7 will always be -1.

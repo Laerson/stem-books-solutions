@@ -1,0 +1,12 @@
+because the expressions aren't equivalent
+
+the first expression is:
+ 9 - ((total - 1) % 10)
+
+ the second is:
+ 10 - (total % 10)
+
+ if we put each expression as a side of an equation, and simpliify, we'll have:
+ (total % 10) - 1 = (total - 1) % 10
+
+And that equation isn't true when total % 10 = 0
