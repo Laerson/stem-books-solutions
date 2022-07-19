@@ -1,0 +1,9 @@
+yes, it is legal, the equivalent expression with parenthesis is:
+(n > = 1) <= 10
+
+if n is equal to 0, then we have:
+
+(0 >= 1) <= 10
+(0) <= 10
+1
+
