@@ -1,0 +1,1 @@
+c). Because the first two will check the condition before executing the block, where the third one will execute the block, and then check the condition
