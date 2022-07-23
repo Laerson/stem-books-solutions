@@ -1,0 +1,1 @@
+i is converted to float, and the result of i + f is converted to double

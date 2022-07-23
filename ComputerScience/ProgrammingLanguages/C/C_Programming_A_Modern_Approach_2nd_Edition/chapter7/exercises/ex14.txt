@@ -1,0 +1,2 @@
+No.
+the non-fractional part of f may be larger than what int can handle

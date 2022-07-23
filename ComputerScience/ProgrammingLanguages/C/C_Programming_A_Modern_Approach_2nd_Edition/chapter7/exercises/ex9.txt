@@ -1,0 +1,2 @@
+the expression (i / j) is evaluated first, and the type is int.
+the 'a' is stored as an int, so the result of the sum is also an int.

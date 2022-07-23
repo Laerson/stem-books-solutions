@@ -1,0 +1,5 @@
+a)floating
+b)floating
+c)illegal
+d)illegal
+e)floating
