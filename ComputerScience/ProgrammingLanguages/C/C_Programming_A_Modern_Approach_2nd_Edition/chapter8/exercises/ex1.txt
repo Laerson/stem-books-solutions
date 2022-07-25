@@ -1,0 +1,1 @@
+Because if someone changes the type of a[] in the code, the sizeof expression will need to be changed as well.
