@@ -1,0 +1,6 @@
+the function calls itself, passing the original argument (n) divided by 2, until the argument is equal to 0. Therefore, there will be log2(n) + 2 calls in the stack, where the last one won't execute the branch.
+
+if the argument is odd, the function will put a '1' on the screen, and if it is even, the function will put a '0'. The function will print, 
+a string of '1's and '0's that is log2(n) + 1 long.
+
+The string will be the binary representation of n.

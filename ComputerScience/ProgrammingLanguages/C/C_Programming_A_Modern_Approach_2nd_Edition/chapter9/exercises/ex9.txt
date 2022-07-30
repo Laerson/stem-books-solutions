@@ -1,0 +1,3 @@
+i = 1, j = 2
+
+explanation: Arguments are passed by value, not by reference. Therefore, swap() doesn't affect the variables in the main function
