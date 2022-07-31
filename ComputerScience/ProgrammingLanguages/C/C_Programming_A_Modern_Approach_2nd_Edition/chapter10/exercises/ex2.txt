@@ -1,0 +1,11 @@
+a)
+b(the one declared inside f), c(global), d(declared in f)
+
+b)
+a(the parameter of g), b (global), c(declared in g)
+
+c)
+a(internal g block), b(global), c(declared in g), d(internal g block)
+
+d)
+b(global), c(declared in main), d(declared in main)

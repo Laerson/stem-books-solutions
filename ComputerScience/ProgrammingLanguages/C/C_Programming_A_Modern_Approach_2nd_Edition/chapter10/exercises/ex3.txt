@@ -1,0 +1,3 @@
+As many as the programmer wish to write.
+
+one global, other inside the main() function, and the other ones can be located inside blocks
