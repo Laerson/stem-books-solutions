@@ -1,0 +1,5 @@
+Because pointers can't be added. 
+
+The correct expression would be:
+
+middle = low + ((high - low) / 2)
